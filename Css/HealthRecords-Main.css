@@ -1,0 +1,89 @@
+main {
+  margin-top: 1rem;
+}
+main .main-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .main-head-title {
+  width: 20rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+
+  background-color: var(--color-white);
+  border-radius: var(--card-border-radius);
+  box-shadow: var(--box-shadow);
+
+  transition: all 0.3s ease;
+}
+
+main .main-head-title h1 {
+  margin-left: 2.1rem;
+}
+
+main .main-head .top-options {
+  margin-left: 50%;
+  display: flex;
+  position: absolute;
+  gap: 1rem;
+}
+
+main .top-options-items {
+  width: 4rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+
+  background-color: var(--color-white);
+  border-radius: 1rem;
+  box-shadow: var(--box-shadow);
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+main .top-options-items span {
+  margin-top: 0.3rem;
+  margin-left: 0.5rem;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+main .recent-records {
+  margin-top: 2rem;
+}
+
+main .recent-records h2 {
+  margin-bottom: 0.8rem;
+}
+
+main .recent-records table {
+  background-color: var(--color-white);
+  width: 100%;
+  padding: var(--card-padding);
+  text-align: center;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--card-border-radius);
+  transition: all 0.3s ease;
+}
+
+main .recent-records table:hover {
+  box-shadow: none;
+}
+
+main table tbody td {
+  height: 2.8rem;
+  border-bottom: 1px solid var(--color-light);
+  color: var(--color-dark-variant);
+}
+
+main table tbody tr:last-child td {
+  border: none;
+}
+
+main .recent-records a {
+  text-align: center;
+  display: block;
+  margin: 1rem auto;
+  color: var(--color-primary);
+}

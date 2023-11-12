@@ -1,0 +1,23 @@
+main {
+  margin-top: 1rem;
+}
+main .main-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .main-head-title {
+  width: 20rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+
+  background-color: var(--color-white);
+  border-radius: var(--card-border-radius);
+  box-shadow: var(--box-shadow);
+
+  transition: all 0.3s ease;
+}
+
+main .main-head-title h1 {
+  margin-left: 2.1rem;
+}
