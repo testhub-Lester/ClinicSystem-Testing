@@ -8,4 +8,4 @@
 - Isang Bala Ka Lang! (1983) 🔫
 - Batas ng .45 (1991) 🔫
 
-![alt text](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcRw2ZfFr5uRikAJ66fxgExY_IvoV9UXLg5apsx4XtxjGsEpby)
+![alt text]([https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcRw2ZfFr5uRikAJ66fxgExY_IvoV9UXLg5apsx4XtxjGsEpby](https://www.themoviedb.org/t/p/w500/nHIr0Grq0mrPyd1Ym2RSZO5VX9X.jpg)https://www.themoviedb.org/t/p/w500/nHIr0Grq0mrPyd1Ym2RSZO5VX9X.jpg)
