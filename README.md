@@ -12,8 +12,8 @@
 
 ## > Fernando Poe Jr. History
 
-Ronald Allan Kelley Poe, known professionally as
-Fernando Poe Jr., and often referred to by his initials FPJ,
+Ronald Allan Kelley Poe, known professionally as /br
+Fernando Poe Jr., and often referred to by his initials FPJ, /br
 was a Filipino actor, film director, producer, screenwriter,
 and politician. His long and successful career as an action
 star earned him the nickname "Da King". [Wikipedia.com](https://en.wikipedia.org/wiki/Fernando_Poe_Jr.)
