@@ -12,7 +12,7 @@
 
 ## > Fernando Poe Jr. History
 
-Ronald Allan Kelley Poe, known professionally as __
+Ronald Allan Kelley Poe, known professionally as <br/>
 Fernando Poe Jr., and often referred to by his initials FPJ, __
 was a Filipino actor, film director, producer, screenwriter,
 and politician. His long and successful career as an action
