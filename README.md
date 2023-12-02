@@ -1,6 +1,6 @@
 # List of My Favorite Movies 🎞️
 
-> Fernando Poe Jr, Movies
+> Fernando Poe Jr. Movies
 - Ang Panday (1980) ⚔️
 - Ang Probinsyano (1996) 🏚️
 - Batang Quiapo (1986) ⛪
