@@ -9,3 +9,11 @@
 - Batas ng .45 (1991) 🔫
 
 ![alt text](https://www.themoviedb.org/t/p/w500/nHIr0Grq0mrPyd1Ym2RSZO5VX9X.jpg)
+
+## > Fernando Poe Jr. History
+
+Ronald Allan Kelley Poe, known professionally as
+Fernando Poe Jr., and often referred to by his initials FPJ,
+was a Filipino actor, film director, producer, screenwriter,
+and politician. His long and successful career as an action
+star earned him the nickname "Da King". [Wikipedia.com](https://en.wikipedia.org/wiki/Fernando_Poe_Jr.)
