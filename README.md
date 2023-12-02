@@ -10,7 +10,7 @@
 
 ![alt text](https://www.themoviedb.org/t/p/w500/nHIr0Grq0mrPyd1Ym2RSZO5VX9X.jpg)
 
-## > Fernando Poe Jr. History
+> ## Fernando Poe Jr. History
 
 Ronald Allan Kelley Poe, known professionally as <br/>
 Fernando Poe Jr., and often referred to by his initials FPJ, <br/>
